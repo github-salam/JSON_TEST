@@ -1,0 +1,48 @@
+{
+    "Human_data": [
+        {
+            "name": "Abdus Salam",
+            "middleName": null,
+            "age": 22,
+            "cgpa": 3.40,
+            "isRegistered": true,
+            "languages": [
+                "Bengali",
+                "English",
+                "Hindi"
+            ],
+            "friends": [
+                {
+                    "Name": "Sakib",
+                    "Age": 22
+                },
+                {
+                    "Name": "Apon",
+                    "Age": 22
+                }
+            ]
+        },
+        {
+            "name": "Abul Kalam",
+            "middleName": null,
+            "age": 47,
+            "cgpa": null,
+            "isRegistered": true,
+            "languages": [
+                "Bengali",
+                "English",
+                "Hindi"
+            ],
+            "friends": [
+                {
+                    "Name": "Fazlul",
+                    "Age": 49
+                },
+                {
+                    "Name": "Xjalal",
+                    "Age": 45
+                }
+            ]
+        }
+    ]
+}
